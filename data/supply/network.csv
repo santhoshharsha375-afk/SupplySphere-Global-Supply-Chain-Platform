@@ -1,0 +1,23 @@
+# SupplySphere supplier network
+# from,to,capacity   (capacity = units per day that can move along the link)
+# SOURCE feeds suppliers; suppliers feed plants; plants feed distribution
+# centres; centres feed markets; markets discharge into TARGET.
+SOURCE,S1,40
+SOURCE,S2,35
+SOURCE,S3,30
+S1,P1,30
+S1,P2,20
+S2,P1,25
+S2,P2,25
+S3,P2,30
+P1,D1,35
+P1,D2,20
+P2,D2,20
+P2,D3,30
+D1,M1,25
+D1,M2,15
+D2,M1,20
+D2,M2,20
+D3,M2,30
+M1,TARGET,40
+M2,TARGET,50

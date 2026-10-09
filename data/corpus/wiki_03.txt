@@ -1,0 +1,4 @@
+Shipment tracking
+Shipment tracking follows every consignment from pickup to final delivery. Each shipment gets a unique reference, and carriers report the location at every checkpoint. If a truck is delayed past its promised window, the platform raises an alert and offers the customer a revised delivery estimate automatically.
+
+Modern tracking also reconciles the signed proof of delivery against the original bill of lading, flagging discrepancies for review. A single shipment can carry several consolidation stops, so the tracking layer records each handover in the supply audit trail. Customers see live updates without calling the desk, and the platform keeps a permanent history of every shipment they have placed.

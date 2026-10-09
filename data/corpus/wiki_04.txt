@@ -1,0 +1,4 @@
+Supplier evaluation
+Every vendor is scored on quality, on-time delivery, and compliance. The platform runs a supplier evaluation every quarter against the contract service levels. A supplier evaluation that ignores lead time punishes your stock policy, so the rubric weights reliability above price.
+
+The score feeds directly into the supplier rating that buyers see during sourcing. Because supplier evaluation affects both cost and continuity, the platform archives every evaluation, and changes are signed by the category lead. A weak score strands supply continuity, and recovery plans reshape the supply profile for the next quarter.

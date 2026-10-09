@@ -1,0 +1,4 @@
+Warehouse management
+Warehouse management coordinates receiving, putaway, picking, and despatch. Rack locations are assigned by velocity, so fast-moving items live closest to the packing bays. Nightly cycle counts catch drift before it becomes a stock-out.
+
+A modern warehouse tracks every pallet from the dock to the trailer. Space is the only shipping cost a manager can control directly, which is why slotting reviews run every quarter. Labour hours are logged per zone and rolled into the supply efficiency report, while idle equipment is rented out to nearby hubs to offset the supply cost baseline; the slack also smooths supply peaks without extra hiring, and the reserve bays soften supply surges during peak season.

@@ -1,0 +1,4 @@
+Inventory management
+Inventory management balances what the platform holds against what customers order. Excess inventory ties up cash, while shortages leak sales, so the reorder point is reviewed each month. Fast movers get safety stock; slow movers get pushed to seasonal pricing.
+
+ABC analysis groups items by value and drives the review cycles, and the platform triggers a replenishment order the moment projected stock falls under the target. Rolled-up forecasts feed each warehouse, so supply planning starts before the shelves run dry. The goal of every supply decision is one fill rate at the lowest total cost, without supply surprises.

@@ -1,0 +1,4 @@
+Procurement
+A procurement process turns a business need into a signed purchase order. It starts with a sourcing plan, moves through supplier selection with bid scoring, and ends with the contract that governs delivery.
+
+Sourcing keeps the supply side of the platform honest. Each supply request is matched against confirmed supply commitments, so demand and supply stay balanced across regions. When procurement and finance disagree on price, the platform flags the conflict instead of guessing; unresolved supply risk is escalated to the planning desk.

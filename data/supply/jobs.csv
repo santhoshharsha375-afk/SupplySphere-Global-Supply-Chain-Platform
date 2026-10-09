@@ -1,0 +1,14 @@
+# SupplySphere delivery preparation tasks
+# label,processingMinutes   (time one warehouse crew needs to complete a task)
+Supplier onboarding,26
+Customs clearance,19
+Cold-chain setup,17
+Freight booking,13
+Quality inspection,11
+Warehouse slotting,10
+Route planning,8
+Label printing,7
+Palletising,6
+Cross-docking,5
+Cycle count,4
+Documentation,3
